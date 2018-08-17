@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+        {% load staticfiles %}
+        <head>
+                <title>Heritages</title>
+                <link rel="stylesheet" type="text/css" href="{% static 'myapp/style.css' %}" />             
+        </head>
+        <body>
+                <header>
+                        <div id="home">
+                        <h1>Welcome to Heritage WebApp</h1>
+                        </div>
+                </header>
+                <!-- Upload form. Note enctype attribute! -->
+                <form action="{% url "list" %}" method="post" enctype="multipart/form-data">
+                        {% csrf_token %}
+                        <p>{{ form.non_field_errors }}</p>
+                        <p>{{ form.docfile.label_tag }} </p>
+                        <p>
+                                {{ form.docfile.errors }}
+                                {{ form.docfile }}
+                        </p>
+                        <p><input type="submit" value="Upload" /></p>
+                </form>
+                <ul>
+                {% block content %}
+                
+                    <ln> {{classNo}} </ln>
+                    
+                {% endblock %}
+                </ul>
+        </body>
+
+</html>
+~        

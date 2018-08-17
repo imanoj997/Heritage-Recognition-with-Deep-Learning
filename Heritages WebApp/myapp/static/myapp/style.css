@@ -1,0 +1,230 @@
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-color:;
+    
+}
+
+h3{
+    text-align: center;
+    font-size: 40px;
+    font-color:;
+    
+}
+h2{
+       text-align: center;
+    font-size: 40px;
+    font-color:white;
+}
+#home{
+    background: white url("images/lds.jpg");
+    height: 700px;
+    width:100%;
+    
+}
+li {
+    font-size: 25px;
+}
+div#font {
+    font-size: 26px;
+}
+ul{
+	background-color: #96a9b3;
+}
+#top{
+	text-align: center;
+    background-color: deepskyblue;
+    margin-top: -20px;
+    margin-bottom: -10px;
+    height: 50px;
+}
+div#top1{
+        background: white url("images/Bhadrakhal Tank.jpg");
+    height: 700px;
+    width:100%;
+    text-align: center;
+    font-size: 40px;
+    margin-top: -20px;
+}
+div#top3{
+    background: white url("images/Bhimsen Temple.jpg");
+     height: 700px;
+    width:100%;
+    text-align: center;
+    font-size: 40px;
+    margin-top: -27px;
+    margin-bottom: -16px;
+
+}
+div#top4{
+    background: white url("images/Krishna Mandir.jpg");
+     height: 700px;
+    width:100%;
+    text-align: center;
+    font-size: 40px;
+    margin-top: -27px;
+    margin-bottom: -16px;
+
+}
+div#top5{
+        background: white url("images/Tushahiti.jpg");
+     height: 700px;
+    width:100%;
+    text-align: center;
+    font-size: 40px;
+    margin-top: -27px;
+    margin-bottom: -16px;
+}
+div#top6{
+        background: white url("images/Char Narayan.jpg");
+     height: 700px;
+    width:100%;
+    text-align: center;
+    font-size: 40px;
+    margin-top: -27px;
+    margin-bottom: -16px;
+}
+
+div#top7{
+    background: white url("images/Chyasing Dewal.jpg");
+     height: 700px;
+    width:100%;
+    text-align: center;
+    font-size: 40px;
+    margin-top: -27px;
+    margin-bottom: -16px;
+}
+div#top8{
+    background: white url("images/Degu taleju.jpg");
+     height: 700px;
+    width:100%;
+    text-align: center;
+    font-size: 40px;
+    margin-top: -27px;
+    margin-bottom: -16px;
+}
+div#top9{
+    background: white url("images/garud Pillar.jpg");
+     height: 700px;
+    width:100%;
+    text-align: center;
+    font-size: 40px;
+    margin-top: -27px;
+    margin-bottom: -16px;
+}
+div#top10{
+    background: white url("images/Keshav narayan temple.jpg");
+     height: 700px;
+    width:100%;
+    text-align: center;
+    font-size: 40px;
+    margin-top: -27px;
+    margin-bottom: -16px;
+}
+div#top11{
+    background: white url("images/Kopeshvara temple.jpg");
+     height: 700px;
+    width:100%;
+    text-align: center;
+    font-size: 40px;
+    margin-top: -27px;
+    margin-bottom: -16px;
+}
+div#top12{
+    background: white url("images/Mani Chaitya.jpg");
+     height: 700px;
+    width:100%;
+    text-align: center;
+    font-size: 40px;
+    margin-top: -27px;
+    margin-bottom: -16px;
+}
+div#top13{
+    background: white url("images/Mani Dhara.jpg");
+     height: 700px;
+    width:100%;
+    text-align: center;
+    font-size: 40px;
+    margin-top: -27px;
+    margin-bottom: -16px;
+}
+div#top14{
+    background: white url("images/maniganesh temple.jpg");
+     height: 700px;
+    width:100%;
+    text-align: center;
+    font-size: 40px;
+    margin-top: -27px;
+    margin-bottom: -16px;
+}
+div#top15{
+    background: white url("images/narsimha temple.jpg");
+     height: 700px;
+    width:100%;
+    text-align: center;
+    font-size: 40px;
+    margin-top: -27px;
+    margin-bottom: -16px;
+}
+div#top16{
+    background: white url("images/north taleju.jpg");
+     height: 700px;
+    width:100%;
+    text-align: center;
+    font-size: 40px;
+    margin-top: -27px;
+    margin-bottom: -16px;
+}
+div#top17{
+    background: white url("imagepatan-museum.jpg");
+     height: 700px;
+    width:100%;
+    text-align: center;
+    font-size: 40px;
+    margin-top: -27px;
+    margin-bottom: -16px;
+}
+div#top18{
+    background: white url("images/taleju bell.jpg");
+     height: 700px;
+    width:100%;
+    text-align: center;
+    font-size: 40px;
+    margin-top: -27px;
+    margin-bottom: -16px;
+}
+div#top19{
+    background: white url("images/yontaju shrine.jpg");
+     height: 700px;
+    width:100%;
+    text-align: center;
+    font-size: 40px;
+    margin-top: -27px;
+    margin-bottom: -16px;
+}
+div#top20{
+    background: white url("images/yogendra pillar.jpg");
+     height: 700px;
+    width:100%;
+    text-align: center;
+    font-size: 40px;
+    margin-top: -27px;
+    margin-bottom: -16px;
+}
+/*div#top1 {
+    text-align: center;
+    background-color: deepskyblue;
+    margin-top: -33px;
+    margin-bottom: -16px;
+    height: 50px;
+    font-size: 28px;
+}*/
+div#top2 {
+    text-align: center;
+    background-color: deepskyblue;
+    margin-top: -33px;
+    margin-bottom: -16px;
+    height: 50px;
+    font-size: 28px;
+}
